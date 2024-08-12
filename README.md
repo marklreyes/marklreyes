@@ -1,4 +1,18 @@
-## Hi there 👋
+👋, I'm Mark Reyes!
+
+## About Me
+***
+
+## Technical Skills
+***
+
+## Key Projects
+***
+
+## Connect with Me
+***
+
+
 
 <!--
 **marklreyes/marklreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
