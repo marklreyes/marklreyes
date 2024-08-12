@@ -9,7 +9,7 @@
 ## Key Projects 📓
 
 
-## Connect with Me ✉️✉️
+## Connect with Me ✉️
 
 
 
