@@ -1,16 +1,16 @@
 👋, I'm Mark Reyes!
 
-## About Me
-***
+## About Me 👨🏾‍💻
 
-## Technical Skills
-***
 
-## Key Projects
-***
+## Technical Skills ⌨️
 
-## Connect with Me
-***
+
+## Key Projects 📓
+
+
+## Connect with Me ✉️✉️
+
 
 
 
