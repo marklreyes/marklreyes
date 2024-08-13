@@ -7,10 +7,13 @@
 
 
 ## Key Projects 📓
-
+* [Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures)
+* [The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm)
+* [Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9)
 
 ## Connect with Me ✉️
-
+* [Email](mailto:mr@marklreyes.com)
+* [LinkedIn](https://www.linkedin.com/in/marklreyes)
 
 
 
