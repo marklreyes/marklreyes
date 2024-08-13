@@ -13,6 +13,11 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** a quick take on Sheldon Cooper formulating his workflow to making new friends.
 * **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** sort and search table columns, persist sorting on refresh, drag and drop columns and resize columns.
 
+## Publications 📰
+* **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
+* **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
+* **[Today with Hoda and Jenna](https://www.marklreyes.com/sleepscore-animated-aura/):** Download these apps to help with your resolutions
+
 ## Connect with Me ✉️
 * [Email](mailto:mr@marklreyes.com)
 * [LinkedIn](https://www.linkedin.com/in/marklreyes)
