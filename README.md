@@ -9,7 +9,7 @@
 
 ## Key Projects 📓
 * [Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures) - AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
-* [The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm) - a quick take on Sheldon Cooper outlining his approach to making new friends using the module pattern.
+* [The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm) - a quick take on Sheldon Cooper formulating his workflow to making new friends.
 * [Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9) - sort and search table columns, persist sorting on refresh, drag and drop columns and resize columns.
 
 ## Connect with Me ✉️
