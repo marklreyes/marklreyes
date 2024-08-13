@@ -4,7 +4,8 @@
 
 
 ## Technical Skills ⌨️
-
+* HTML, CSS, JavaScript
+* Frameworks: Angular, Vue, React
 
 ## Key Projects 📓
 * [Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures)
