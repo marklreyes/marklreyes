@@ -1,7 +1,7 @@
 👋, I'm Mark Reyes, Frontend Software Engineer with 17+ years working with Engineering, Product, Creative & Marketing Teams.
 
 ## About Me 👨🏾‍💻
-Described by past teammates as a ***quick study***, I'm a frontend software engineer that's in depth with the presentation layer of your web experience. I’m also a [podcaster](https://www.marklreyes.com/allwebsd-podcast/) and [blogger](https://www.marklreyes.com/category/project-log/) who enjoys sharing my experiences and knowledge with others. I'm a firm believer in the open source concept and I'm always looking for ways to give back and these added mediums are a great way in doing just that!
+Described by past teammates as a ***quick study***, I'm a frontend software engineer that's in depth with the presentation layer of your web experience. I’m also a [podcaster](https://www.marklreyes.com/allwebsd-podcast/) and [blogger](https://www.marklreyes.com/category/project-log/) who enjoys sharing my experiences and knowledge with others and these additional mediums are a great way in doing just that!
 
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
