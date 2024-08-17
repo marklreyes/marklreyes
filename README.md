@@ -18,6 +18,9 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 * **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
 * **[Today with Hoda and Jenna](https://www.marklreyes.com/sleepscore-animated-aura/):** Download these apps to help with your resolutions
 
+## Advocacy Work 📣
+* ** [Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** A listing app for querying cannabis seed companies, strains, brands, products, batches, retailers and studies. 
+
 ## Connect with Me ✉️
 * [Email](mailto:mr@marklreyes.com)
 * [LinkedIn](https://www.linkedin.com/in/marklreyes)
