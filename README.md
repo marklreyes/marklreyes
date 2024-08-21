@@ -6,7 +6,7 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
 * **Frameworks & Libraries:** Angular, Vue, React, Liquid
-* **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, Shopify
+* **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify
 
 ## Key Projects 📓
 * **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
