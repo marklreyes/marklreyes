@@ -19,7 +19,7 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 * **[Today with Hoda and Jenna](https://www.marklreyes.com/sleepscore-animated-aura/):** Download these apps to help with your resolutions
 
 ## Advocacy Work 📣
-* **[AllWebSD](https://allwebsd.com/):** Just a web developer storytelling out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. 
+* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. 
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** A listing app for querying cannabis seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Connect with Me ✉️
