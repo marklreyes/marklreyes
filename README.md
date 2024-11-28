@@ -5,7 +5,8 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
-* **Frameworks & Libraries:** Angular, Vue, React, Liquid
+* **Frameworks & Libraries:** Angular, Vue, React, jQuery
+* **Templating:** Shopify Liquid (Ruby), Handlebars (JS), Smarty (PHP)
 * **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify
 
 ## Key Projects 📓
