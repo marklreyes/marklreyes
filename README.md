@@ -10,6 +10,7 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 * **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify
 
 ## Experimental Projects 🔬
+* **[Vanlife](https://github.com/marklreyes/van-life):** A deeper dive into Advanced React concepts utilizing React Router 6 and deployed to Netlify.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS Rest API](https://github.com/marklreyes/NestJS-restapi):** Exploring CRUD operations through an opinionated framework for NodeJS backend development.
 * **[Hydrogen Storefront](https://github.com/marklreyes/hydrogen-storefront):** Tinkering with a Headless CMS solution for Shopify eCommerce applications.
