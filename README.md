@@ -7,27 +7,36 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
 * **Frameworks & Libraries:** Angular, React, React Native, Vue, Bootstrap, Tailwind CSS, jQuery, NestJS
 * **Templating:** Shopify Liquid (Ruby), Handlebars (JS), Smarty (PHP)
-* **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify
+* **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify, Adobe Creative Cloud, Descript
 
-## Experimental Projects 🔬
+## Favorites ❤️
+Need I say more? This is like having to choose your favorite kid, yikes!
+* **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
+* **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
+
+## Experimental 🔬
+Playing with newer tech that's outside of my day-to-day skillset.
 * **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, Firebase and deployed to Netlify.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS Rest API](https://github.com/marklreyes/NestJS-restapi):** Exploring CRUD operations through a progressive Node.js framework for backend development.
 * **[Hydrogen Storefront](https://github.com/marklreyes/hydrogen-storefront):** Tinkering with Shopify's opinionated stack for headless commerce, built on Remix.
 
-## Favorite Projects ❤️
-* **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
-* **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** a quick take on Sheldon Cooper formulating his workflow to making new friends.
-* **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** sort and search table columns, persist sorting on refresh, drag and drop columns and resize columns.
+
+## Archived 📌
+Projects worth revisiting at some point as they once did have a heart beat and are worthy of an upgrade path.
+* **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns.
+* **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying cannabis seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Publications 📰
+Some of my work which circulated around the world. Enjoy!
 * **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
 * **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
 * **[Today with Hoda and Jenna](https://www.marklreyes.com/sleepscore-animated-aura/):** Download these apps to help with your resolutions
 
 ## Advocacy Work 📣
-* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. 
-* **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** A listing app for querying cannabis seed companies, strains, brands, products, batches, retailers and studies. 
+Here's where I swing for the fences with agendas outside of the 9-5 grind!
+* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">The site is currently being rewritten with React Router and will ship to Netlify.</span>
+
 
 ## Connect with Me ✉️
 * [Email](mailto:mr@marklreyes.com)
