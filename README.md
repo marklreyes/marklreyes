@@ -24,7 +24,7 @@ Playing with newer tech that's outside of my day-to-day.
 
 ## Archived 📌
 Projects worth revisiting at some point as they once did have a heart beat and are worthy of an upgrade path.
-* **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns.
+* **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns. Forked over 60+ times with 9K+ views.
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying cannabis seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Publications 📰
