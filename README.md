@@ -20,6 +20,7 @@ Playing with newer tech that's outside of my day-to-day.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS Rest API](https://github.com/marklreyes/NestJS-restapi):** Exploring CRUD operations through a progressive Node.js framework for backend development.
 * **[Hydrogen Storefront](https://github.com/marklreyes/hydrogen-storefront):** Tinkering with Shopify's opinionated stack for headless commerce, built on Remix.
+* **[The Renaissance](https://github.com/marklreyes/angular-fundamentals-lessons):** Revisiting Angular in its latest form through the eyes of Frontend Masters.
 
 
 ## Archived 📌
