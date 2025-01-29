@@ -15,7 +15,7 @@ Need I say more? This is like having to choose your favorite kid, yikes!
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
 
 ## Experimental 🔬
-Playing with newer tech that's outside of my day-to-day.
+Playing with newer tech that's outside of "muscle memory".
 * **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, Firebase and deployed to Netlify.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS Rest API](https://github.com/marklreyes/NestJS-restapi):** Exploring CRUD operations through a progressive Node.js framework for backend development.
