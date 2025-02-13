@@ -36,7 +36,7 @@ Some of my work which circulated around the world. Enjoy!
 
 ## Advocacy Work 📣
 Here's where I swing for the fences with agendas outside of the 9-5 grind!
-* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">The site is currently being rewritten with React Router and will ship to Netlify.</span>
+* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">The site leverages Netlify's React Router template.</span>
 
 
 ## Connect with Me ✉️
