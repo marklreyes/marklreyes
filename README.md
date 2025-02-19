@@ -7,7 +7,7 @@ Described by past teammates as a ***quick study***, I'm a frontend software engi
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
 * **Frameworks & Libraries:** Angular, React, React Native, Vue, Bootstrap, Tailwind CSS, jQuery, NestJS
 * **Templating:** Shopify Liquid (Ruby), Handlebars (JS), Smarty (PHP)
-* **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify, Adobe Creative Cloud, Descript
+* **Tools & Platforms:** GitHub, Microsoft Azure, WP Engine, WordPress, Shopify, Netlify, Adobe Creative Cloud, Descript
 
 ## Favorites ❤️
 Need I say more? This is like having to choose your favorite kid, yikes!
