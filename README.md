@@ -22,6 +22,7 @@ Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the mom
 * **[NestJS Rest API](https://github.com/marklreyes/NestJS-restapi):** Exploring CRUD operations through a progressive Node.js framework for backend development.
 * **[Hydrogen Storefront](https://github.com/marklreyes/hydrogen-storefront):** Tinkering with Shopify's opinionated stack for headless commerce, built on Remix.
 * **[The Renaissance](https://github.com/marklreyes/angular-fundamentals-lessons):** Revisiting Angular in its latest form through the eyes of Frontend Masters.
+* **[Cloudflare Worker AI App](https://github.com/marklreyes/AI-App):** Front End to Cloudflare Worker to OpenAI API then back to Cloudflare Worker and back to the Front End.
 
 
 ## Archived 📌
