@@ -15,15 +15,18 @@ Need I say more? This is like having to choose your favorite kid, yikes!
 * **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
 
-## Experimental 🔬
+## Experimental (Web, Mobile) 🔬
 Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the moment.
 * **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, Firebase and deployed to Netlify.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS Rest API](https://github.com/marklreyes/NestJS-restapi):** Exploring CRUD operations through a progressive Node.js framework for backend development.
 * **[Hydrogen Storefront](https://github.com/marklreyes/hydrogen-storefront):** Tinkering with Shopify's opinionated stack for headless commerce, built on Remix.
 * **[The Renaissance](https://github.com/marklreyes/angular-fundamentals-lessons):** Revisiting Angular in its latest form through the eyes of Frontend Masters.
-* **[Cloudflare Worker AI App](https://github.com/marklreyes/AI-App):** Front End to Cloudflare Worker to OpenAI API then back to Cloudflare Worker and back to the Front End.
 
+## Experimental (AI) 🤖
+But at times I also feel like I'm Luigi, jumping in & out of these worlds.
+* **[Cloudflare Worker AI App](https://github.com/marklreyes/AI-App):** AI App utilizing Cloudflare Workers, OpenAI and Polygon API.
+* **[Stock Predictions AI App](https://github.com/marklreyes/stock-predictions-ai-app-main):** Web app which consumes the aforementioned Cloudflare Worker AI App.
 
 ## Archived 📌
 Projects worth revisiting at some point as they once did have a heart beat and are worthy of an upgrade path.
