@@ -15,7 +15,7 @@ Need I say more? This is like having to choose your favorite kid, yikes!
 * **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
 
-## Experimental (Web, Mobile) 🔬
+## Experimental (Web, Mobile) 💻📱
 Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the moment.
 * **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, Firebase and deployed to Netlify.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
