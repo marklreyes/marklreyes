@@ -37,9 +37,10 @@ Some of my work which circulated around the world. Enjoy!
 * **[Today with Hoda and Jenna](https://www.marklreyes.com/sleepscore-animated-aura/):** Download these apps to help with your resolutions
 
 ## Advocacy Work 📣
-Active projects I maintain outside of the "9 to 5" agendas! Opinions expressed are my own.
-* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">Site built with Netlify's [React Router Template](https://github.com/marklreyes/react-router-allwebsd).</span>
+Active projects I maintain outside of the "9 to 5" agendas!
+* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">Site built with Netlify's [React Router Template](https://github.com/marklreyes/react-router-allwebsd). Now featuring an OpenAI integration!</span>
 
+> **Disclaimer:** Advocacy/Opinions expressed are my own and not reflective of current or past employers.
 
 ## Connect with Me ✉️
 * [Email](mailto:mr@marklreyes.com)
