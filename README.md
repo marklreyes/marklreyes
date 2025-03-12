@@ -41,7 +41,7 @@ Some of my work which circulated around the world. Enjoy!
 
 ## Advocacy Work 📣
 Active projects I maintain outside of the "9 to 5" agendas!
-* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">Site built with Netlify's [React Router Template](https://github.com/marklreyes/react-router-allwebsd). Recent upgrades to React 19 and Tailwind 4. OpenAI integration now available!</span>
+* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">Site built with Netlify's [React Router Template](https://github.com/marklreyes/react-router-allwebsd). Upgraded to React 19 and Tailwind 4 with an additional OpenAI integration!</span>
 
 > **Disclaimer:** Advocacy/Opinions expressed are my own and not reflective of current or past employers.
 
