@@ -18,7 +18,7 @@ Need I say more? This is like having to choose your favorite kid, yikes!
 
 ## Experimental (Web, Mobile) 💻📱
 Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the moment.
-* **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, [Cloud Firestore](https://firebase.google.com/docs/firestore) and deployed to [Netlify](https://incandescent-basbousa-199abf.netlify.app/).
+* **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, [Cloud Firestore](https://firebase.google.com/docs/firestore) and deployed to [Netlify](https://netlify.com).
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS](https://github.com/marklreyes/NestJS-restapi):** Exploring REST API development through progressive Node.js framework using [Prisma](https://www.prisma.io/) for ORM & [Neon](https://neon.tech/) for database.
 * **[Hydrogen Storefront](https://github.com/marklreyes/hydrogen-storefront):** Tinkering with Shopify's Remix stack for headless commerce querying products with GraphQL.
