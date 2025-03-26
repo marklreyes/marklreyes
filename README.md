@@ -1,7 +1,7 @@
-👋, I'm [Mark Reyes](https://www.marklreyes.com/about-me/), Frontend Engineer with 18 years (16 in web) working with Engineering, Product, Creative & Marketing Teams.
+👋, I'm [Mark Reyes](https://marklreyes.com/about/), Frontend Engineer with 18 years (16 in web) working with Engineering, Product, Creative & Marketing Teams.
 
 ## About Me 👨🏾‍💻
-Described by past teammates as a ***quick study***, I'm a frontend software engineer that's in depth with the presentation layer of your web experience. I also side quest a bit with podcasting. Take a listen at [AllWebSD](https://www.allwebsd.com/) and my [blog](https://www.marklreyes.com/) where I share knoweldge, insights and other interests!
+Described by past teammates as a ***quick study***, I'm a frontend software engineer that's in depth with the presentation layer of your web experience. I also side quest a bit with podcasting. Take a listen at [AllWebSD](https://www.allwebsd.com/) and my [blog](https://marklreyes.com/blog/) where I share knoweldge, insights and other interests!
 
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
@@ -38,7 +38,7 @@ Projects worth revisiting at some point as they once did have a heart beat and a
 Some of my work which circulated around the world. Enjoy!
 * **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
 * **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
-* **[Today with Hoda and Jenna](https://www.marklreyes.com/sleepscore-animated-aura/):** Download these apps to help with your resolutions
+* **[Today with Hoda and Jenna](https://www.marklreyes.com/blog/sleepscore-animated-aura/):** Download these apps to help with your resolutions
 
 ## Advocacy Work 📣
 Active projects I maintain outside of the "9 to 5" agendas!
