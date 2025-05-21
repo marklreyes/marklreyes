@@ -1,7 +1,7 @@
-👋, I'm [Mark Reyes](https://marklreyes.com/about/), Frontend Engineer with 18 years (16 in web) working with Engineering, Product, Creative & Marketing Teams.
+👋, I'm [Mark](https://marklreyes.com/about/) and welcome to my GitHub profile!
 
 ## About Me 👨🏾‍💻
-Described by past teammates as a ***quick study***, I'm a frontend software engineer that's in depth with the presentation layer of your web experience. I also side quest a bit with podcasting. Take a listen at [AllWebSD](https://www.allwebsd.com/) and my [blog](https://marklreyes.com/blog/) where I share knoweldge, insights and other interests!
+Described by past teammates as a ***quick study***, I'm Front End Engineer, Podcast Producer, Advocate and more. I'm currently in the trenches of React, Astro, Angular and OpenAI while [podcasting](https://www.allwebsd.com/) and [blogging](https://marklreyes.com/blog/) in between.
 
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
