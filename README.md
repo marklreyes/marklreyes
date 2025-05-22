@@ -1,7 +1,7 @@
 👋, I'm [Mark](https://marklreyes.com/about/) and welcome to my GitHub profile!
 
 ## About Me 👨🏾‍💻
-Described by past teammates as a ***quick study***, I'm a Front End Engineer, Podcast Producer, Advocate and more. I'm currently in the trenches of React, Astro, Angular and OpenAI while [podcasting](https://www.allwebsd.com/) and [blogging](https://marklreyes.com/blog/) in between.
+Described by past teammates as a ***quick study***, I'm a Front End Engineer, Podcast Producer, Advocate and more. I'm currently in the trenches of React, Astro, Angular and OpenAI while [podcasting](https://marklreyes.com/tags/podcast-projects/) and [blogging](https://marklreyes.com/blog/) in between.
 
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
