@@ -1,4 +1,4 @@
-👋, I'm [Mark](https://marklreyes.com/about/) and welcome to my GitHub profile!
+👋, I'm [Mark](https://marklreyes.com) and welcome to my GitHub profile!
 
 ## About Me 👨🏾‍💻
 Described by past teammates as a ***quick study***, I'm a Front End Engineer, Podcast Producer, Advocate and more. I'm currently in the trenches of React, Astro, Angular and OpenAI while [podcasting](https://marklreyes.com/tags/podcast-projects/) and [blogging](https://marklreyes.com/blog/) in between.
@@ -30,7 +30,7 @@ Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the mom
 ## Archived 📌
 Projects worth revisiting at some point as they once did have a heart beat and are worthy of an upgrade path.
 * **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns. Forked over 60+ times with 9K+ views.
-* **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying cannabis seed companies, strains, brands, products, batches, retailers and studies. 
+* **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Publications 📰
 Some of my work which circulated around the world. Enjoy!
