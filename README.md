@@ -53,9 +53,9 @@ Active projects I maintain outside of "9 to 5" agendas!
 
 #### [AllWebSD Podcast](https://allwebsd.com/)
 
-*Web Developer storytelling out of America's Finest City*
+*Web Developer storytelling out of America's Finest City.*
 
-- KiloByte Contributor to San Diego Futures Foundation
+- KiloByte Contributor to San Diego Futures Foundation.
 - Built with [React Router Template](https://github.com/netlify/react-router-template), React 19 and Tailwind 4 with chatbot services provided by [OpenAI](https://allwebsd.com/chat)!
 
 #### [Puff Provisions Podcast](https://puffprovisions.com/)
