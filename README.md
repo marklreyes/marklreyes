@@ -50,9 +50,21 @@ Projects worth revisiting at some point as they once did have a heart beat and a
 
 ## Advocacy Work 📣
 Active projects I maintain outside of "9 to 5" agendas!
-* **[AllWebSD Podcast](https://allwebsd.com/):** Web Developer storytelling out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. Built with [React Router Template](https://github.com/netlify/react-router-template), React 19 and Tailwind 4 with chatbot services provided by [OpenAI](https://allwebsd.com/chat)!
-* **[Puff Provisions Podcast](https://puffprovisions.com/):** CA PROP 64 Advocacy through...Your FAVORITE Canna Comedy Show! ⭐️⭐️⭐️⭐️⭐️ rated show on Spotify and Apple Podcasts. Centered around [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App for cultivators planning a grow site from 0 to 1, US legalization map, strain explorer and more. 
-> **Disclaimer:** Advocacy/Opinions expressed are my own and not reflective of current or past employers.
+
+#### [AllWebSD Podcast](https://allwebsd.com/)
+
+*Web Developer storytelling out of America's Finest City*
+
+- KiloByte Contributor to San Diego Futures Foundation
+- Built with [React Router Template](https://github.com/netlify/react-router-template), React 19 and Tailwind 4 with chatbot services provided by [OpenAI](https://allwebsd.com/chat)!
+
+#### [Puff Provisions Podcast](https://puffprovisions.com/)
+*CA PROP 64 Advocacy through...Your FAVORITE Canna Comedy Show!*
+
+- ⭐️⭐️⭐️⭐️⭐️ rated show on Spotify and Apple Podcasts. 
+- Centered around [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App for cultivators planning a grow site from 0 to 1, US legalization map, strain explorer and more. 
+
+> **Disclaimer:** Advocacy & Opinions expressed are my own and not reflective of current or past employers.
 
 ## Connect with Me ✉️
 * [Email](mailto:mr@marklreyes.com)
