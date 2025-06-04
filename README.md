@@ -9,7 +9,7 @@ Described by past teammates as a ***quick study***, I'm a Front End Engineer, Po
 > "Beyond his technical skills he is an exceptional mentor. He always took the time to help others, ensuring that junior and senior developers alike felt supported and had the resources they needed to grow..."
 >
 > 
-> "Mark is earnest, with a “get it done” work ethic. He is a great addition to any team. Mark would often take on tasks and components he was not assigned to in order to both hone skills as well as help out team mates."
+> "Mark is earnest, with a “get it done” work ethic. He is a great addition to any team. Mark would often take on tasks and components he was not assigned to in order to both hone skills as well as help out team mates..."
 
 <cite>[Read More](https://marklreyes.com/testimonials/)</cite>
 
@@ -49,9 +49,9 @@ Projects worth revisiting at some point as they once did have a heart beat and a
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Advocacy Work 📣
-Active projects I maintain outside of the "9 to 5" agendas!
-* **[AllWebSD](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. <span style="color: white; background: orange; padding: 1px;">Rebuilt with [React Router Template](https://github.com/netlify/react-router-template). Recently upgraded to React 19 and Tailwind 4 with an additional chatbot integration with [OpenAI](https://allwebsd.com/chat)!</span>
-
+Active projects I maintain outside of "9 to 5" agendas!
+* **[AllWebSD Podcast](https://allwebsd.com/):** Storyteller out of America's Finest City and KiloByte Contributor to San Diego Futures Foundation. Built with [React Router Template](https://github.com/netlify/react-router-template), React 19 and Tailwind 4 with chatbot services provided by [OpenAI](https://allwebsd.com/chat)!
+* **[Puff Provisions Podcast](https://puffprovisions.com/):** CA PROP 64 Advocacy through...Your FAVORITE Canna Comedy Show! Primarily built with [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App aimed to help cultivators plan a grow site from 0 to 1, US legalization map, strain explorer and more. ⭐️⭐️⭐️⭐️⭐️ rated show on Spotify and Apple Podcasts!
 > **Disclaimer:** Advocacy/Opinions expressed are my own and not reflective of current or past employers.
 
 ## Connect with Me ✉️
