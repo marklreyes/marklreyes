@@ -48,8 +48,8 @@ Projects worth revisiting at some point as they once did have a heart beat and a
 * **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns. Forked over 60+ times with 9K+ views.
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
 
-## Advocacy Work 📣
-Active projects I maintain outside of "9 to 5" agendas!
+## Advocacy 📣
+Advocacy projects I maintain outside of "9 to 5" agendas!
 
 #### [AllWebSD Podcast](https://allwebsd.com/)
 
