@@ -10,6 +10,7 @@ Described by past teammates as a ***quick study***, I'm a Front End Engineer, Po
 >
 > 
 > "Mark is earnest, with a “get it done” work ethic. He is a great addition to any team. Mark would often take on tasks and components he was not assigned to in order to both hone skills as well as help out team mates."
+
 <cite>[Read More](https://marklreyes.com/testimonials/)</cite>
 
 ## Technical Skills ⌨️
