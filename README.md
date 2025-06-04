@@ -3,6 +3,10 @@
 ## About Me 👨🏾‍💻
 Described by past teammates as a ***quick study***, I'm a Front End Engineer, Podcast Producer, Advocate and more. I'm currently in the trenches of React, Astro, Angular and OpenAI while [podcasting](https://marklreyes.com/tags/podcast-projects/) and [blogging](https://marklreyes.com/blog/) in between.
 
+> Beyond his technical skills he is an exceptional mentor… balanced hands-on coding with leadership.
+>
+-- <cite>[Testimonial](https://marklreyes.com/testimonials/)</cite>
+
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
 * **Frameworks & Libraries:** Angular, React, React Native, Next.js, Astro, Vue, Bootstrap, Tailwind CSS, daisyUI, jQuery, NestJS
