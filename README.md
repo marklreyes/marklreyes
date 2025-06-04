@@ -5,7 +5,10 @@ Described by past teammates as a ***quick study***, I'm a Front End Engineer, Po
 
 ## Testimonials 🎖️
 > "He was the quintessential team player, who believes strongly in empowering people to be able to understand how to make web changes for themselves, for the sake of teaching everyone how to use the tools in front of them..."
+> 
 > "Beyond his technical skills he is an exceptional mentor. He always took the time to help others, ensuring that junior and senior developers alike felt supported and had the resources they needed to grow..."
+>
+> 
 > "Mark is earnest, with a “get it done” work ethic. He is a great addition to any team. Mark would often take on tasks and components he was not assigned to in order to both hone skills as well as help out team mates."
 <cite>[Read More](https://marklreyes.com/testimonials/)</cite>
 
