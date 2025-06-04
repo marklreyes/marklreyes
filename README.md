@@ -13,6 +13,12 @@ Described by past teammates as a ***quick study***, I'm a Front End Engineer, Po
 
 <cite>[Read More](https://marklreyes.com/testimonials/)</cite>
 
+## Publications 📰
+Some of my work which circulated around the world. Enjoy!
+* **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
+* **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
+* **[Today with Hoda and Jenna](https://www.marklreyes.com/blog/sleepscore-animated-aura/):** Download these apps to help with your resolutions
+
 ## Technical Skills ⌨️
 * **Languages:** HTML, CSS, JavaScript, TypeScript, PHP
 * **Frameworks & Libraries:** Angular, React, React Native, Next.js, Astro, Vue, Bootstrap, Tailwind CSS, daisyUI, jQuery, NestJS
@@ -41,12 +47,6 @@ Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the mom
 Projects worth revisiting at some point as they once did have a heart beat and are worthy of an upgrade path.
 * **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns. Forked over 60+ times with 9K+ views.
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
-
-## Publications 📰
-Some of my work which circulated around the world. Enjoy!
-* **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
-* **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
-* **[Today with Hoda and Jenna](https://www.marklreyes.com/blog/sleepscore-animated-aura/):** Download these apps to help with your resolutions
 
 ## Advocacy Work 📣
 Active projects I maintain outside of the "9 to 5" agendas!
