@@ -62,7 +62,7 @@ Advocacy projects I maintain outside of "9 to 5" agendas!
 *CA PROP 64 Advocacy through...Your FAVORITE Canna Comedy Show!*
 
 - ⭐️⭐️⭐️⭐️⭐️ rated show on Spotify and Apple Podcasts. 
-- Centered around [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App for cultivators planning a grow site from 0 to 1, US legalization map, strain explorer and more. 
+- Centered around [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App for cultivators planning a grow site from 0 to 1, US legalization map, strain explorer and more! 
 
 > **Disclaimer:** Advocacy & Opinions expressed are my own and not reflective of current or past employers.
 
