@@ -1,7 +1,9 @@
 👋, I'm [Mark](https://marklreyes.com) and welcome to my GitHub profile!
 
-## About Me 👨🏾‍💻
-Described by past teammates as a ***quick study***, I'm a Front End Engineer, Podcast Producer, Advocate and more. I'm currently in the trenches of React, Astro, Angular and OpenAI while [podcasting](https://marklreyes.com/tags/podcast-projects/) and [blogging](https://marklreyes.com/blog/) in between.
+## About 👨🏾‍💻
+**Mark is a Front-End Engineer, Podcast Producer, and Advocate crafting dynamic web experiences and scalable UI systems.**
+
+His journey began in web marketing, but his passion for design systems, JavaScript frameworks, and tech storytelling quickly evolved into a multifaceted career that spans development, digital strategy, and audio production. Today, he helps companies—from Fortune 500s to startups—deliver performant, accessible, and engaging digital products that align with real business goals.
 
 ## Testimonials 🎖️
 > "He was the quintessential team player, who believes strongly in empowering people to be able to understand how to make web changes for themselves, for the sake of teaching everyone how to use the tools in front of them..."
@@ -14,7 +16,7 @@ Described by past teammates as a ***quick study***, I'm a Front End Engineer, Po
 <cite>[Read More](https://marklreyes.com/testimonials/)</cite>
 
 ## Publications 📰
-Some of my work which circulated around the world. Enjoy!
+A selection of Mark’s work that has reached global audiences across various platforms.
 * **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
 * **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
 * **[Today with Hoda and Jenna](https://www.marklreyes.com/blog/sleepscore-animated-aura/):** Download these apps to help with your resolutions
@@ -27,14 +29,14 @@ Some of my work which circulated around the world. Enjoy!
 * **Digital Media Tools:** Adobe Creative Cloud, Figma (Dev Mode), Descript
 
 ## Favorites ❤️
-Need I say more? This is like having to choose your favorite kid, yikes!
+A curated highlight of standout projects—each representing a distinct creative and technical milestone.
 * **[MarkLReyes.com](https://marklreyes.com):** TLDR - please read [Goodbye WordPress. Hello Astro!](https://marklreyes.com/blog/goodbye-wordpress-hello-astro/)
 * **[DesktopAthlete.com](https://desktopathlete.com):** Your AI assistant focused on providing you with FREE exercise programs for as little as 20 minutes.
 * **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
 
 ## Side Quests (Web, Mobile, AI) 💻📱🤖
-Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the moment.
+A collection of experimental projects and prototypes—brief detours through new ideas, technologies, and creative curiosities. Think of them as digital warp pipes: unexpected, temporary, and purely exploratory.
 * **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, Cloud Firestore and deployed to Netlify.
 * **[Taskly](https://github.com/marklreyes/taskly):** Learning React Native by building out a shopping list, reminder and a bonus blank screen for prototyping.
 * **[NestJS](https://github.com/marklreyes/NestJS-restapi):** Exploring REST API development through progressive Node.js framework using [Prisma](https://www.prisma.io/) for ORM & [Neon](https://neon.tech/) for database.
@@ -44,12 +46,12 @@ Similar to Super Mario, I'm transporting in & out of these Warp Pipes at the mom
 * **[Stock Predictions AI App](https://github.com/marklreyes/stock-predictions-ai-app-main):** Web app which consumes the aforementioned Cloudflare Worker AI App.
 
 ## Archived 📌
-Projects worth revisiting at some point as they once did have a heart beat and are worthy of an upgrade path.
+Archived projects with strong foundations—candidates for future updates or modern revivals.
 * **[Angular Task List](https://github.com/marklreyes/angular-tasklist-ng9):** Written in Angular 9, sort and search table columns, persist sorting on refresh, drag/drop columns and resize columns. Forked over 60+ times with 9K+ views.
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Advocacy 📣
-Advocacy projects I maintain outside of "9 to 5" agendas!
+Mission-driven initiatives Mark supports beyond traditional work hours, focused on community, accessibility, and education.
 
 #### [AllWebSD Podcast](https://allwebsd.com/) - *Web Developer storytelling out of America's Finest City.*
 
@@ -61,9 +63,9 @@ Advocacy projects I maintain outside of "9 to 5" agendas!
 - ⭐️⭐️⭐️⭐️⭐️ rated show on Spotify and Apple Podcasts. 
 - Developed with [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App for cultivators planning a grow site from 0 to 1, US legalization map, strain explorer and more! 
 
-> **Disclaimer:** Advocacy & Opinions expressed are my own and not reflective of current or past employers.
+> **Disclaimer:** The perspectives and advocacy initiatives shared are solely Mark’s and do not reflect the positions of any current or past employers.
 
-## Connect with Me ✉️
+## Connect ✉️
 * [Email](mailto:mr@marklreyes.com)
 * [LinkedIn](https://www.linkedin.com/in/marklreyes)
 
