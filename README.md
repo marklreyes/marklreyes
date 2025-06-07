@@ -30,7 +30,7 @@ A selection of Mark’s work that has reached global audiences across various pl
 
 ## Favorites ❤️
 A curated highlight of standout projects—each representing a distinct creative and technical milestone.
-* **[MarkLReyes.com](https://marklreyes.com):** TLDR - please read [Goodbye WordPress. Hello Astro!](https://marklreyes.com/blog/goodbye-wordpress-hello-astro/)
+* **[Goodbye WordPress. Hello Astro!](https://marklreyes.com/blog/goodbye-wordpress-hello-astro/):** 5-step playbook featuring Juvenile, Mark Morrison, Kendrick Lamar, Biggie Smalls, Dr. Dre, Snoop Dogg, Blackstreet &#38; Boyz II Men.
 * **[DesktopAthlete.com](https://desktopathlete.com):** Your AI assistant focused on providing you with FREE exercise programs for as little as 20 minutes.
 * **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
