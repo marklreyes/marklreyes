@@ -68,7 +68,7 @@ Mission-driven initiatives Mark supports beyond traditional work hours, focused 
 > **Disclaimer:** The perspectives and advocacy initiatives shared are solely Mark’s and do not reflect the positions of any current or past employers.
 
 ## Connect ✉️
-* [Email](mailto:mr@marklreyes.com)
+* [Email](https://marklreyes.com/contact/)
 * [LinkedIn](https://www.linkedin.com/in/marklreyes)
 
 
