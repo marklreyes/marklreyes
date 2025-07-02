@@ -37,6 +37,7 @@ A curated highlight of standout projects—each representing a distinct creative
 
 ## Side Quests (Web, Mobile, AI) 💻📱🤖
 A collection of experimental projects and prototypes—brief detours through new ideas, technologies, and creative curiosities. Think of them as digital warp pipes: unexpected, temporary, and purely exploratory.
+* **[Docker](https://github.com/marklreyes/docker-my-project):** Delving into the capabilities of Docker to develop, ship, and run applications that work on every machine. 
 * **[Plantly](https://github.com/marklreyes/plantly):** Shipping production-ready iOS and Android apps with React Native and Expo.
 * **[Sales Dashboard](https://github.com/marklreyes/sales-dashboard-supabase):** React, Vite and Supabase for a real-world dashboard that fetches, inserts, and updates data in real-time.
 * **[Vanlife](https://github.com/marklreyes/van-life):** Deeper dive into Advanced React concepts utilizing React Router 6, Cloud Firestore and deployed to Netlify.
