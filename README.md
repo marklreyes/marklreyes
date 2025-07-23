@@ -47,7 +47,7 @@ A collection of experimental projects and prototypes—brief detours through new
 * **[The Renaissance](https://github.com/marklreyes/angular-fundamentals-lessons):** Revisiting Angular in its latest form through the eyes of Frontend Masters.
 * **[Cloudflare Worker AI App](https://github.com/marklreyes/AI-App):** AI App utilizing Cloudflare Workers, OpenAI and Polygon API.
 * **[Stock Predictions AI App](https://github.com/marklreyes/stock-predictions-ai-app-main):** Web app which consumes the aforementioned Cloudflare Worker AI App.
-* **[Desktop Athlete](https://app.mindstudio.ai/agents/dad-joke-loading-ai-agent-8cdc542e):** Desktop Athlete converted an AI Agent, offering free and effective exercise programs for busy individuals.
+* **[Desktop Athlete](https://app.mindstudio.ai/agents/dad-joke-loading-ai-agent-8cdc542e):** AI Agent version, offering free and effective exercise programs for busy individuals.
 * **[Dad Joke Loading...](https://app.mindstudio.ai/agents/desktop-athlete-ai-agent-1c20b44f):** AI Agent that scans a web page and turns it into perfectly timed dad jokes and puns.
 
 
