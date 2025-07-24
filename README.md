@@ -60,7 +60,7 @@ Archived projects with strong foundations—candidates for future updates or mod
 ## Advocacy 📣
 Mission-driven initiatives Mark supports beyond traditional work hours, focused on community, accessibility, and education.
 
-#### [AllWebSD Podcast](https://allwebsd.com/) - *Web Developer storytelling out of America's Finest City.*
+#### [AllWebSD Podcast](https://allwebsd.com/) - *Web Developer storytelling and community building out of America's Finest City.*
 
 - [KiloByte Contributor](https://sdfutures.org/support-sdff) to local 501c3 nonprofit, San Diego Futures Foundation.
 - Built with [React Router Template](https://github.com/netlify/react-router-template), React 19 and Tailwind 4 with chatbot services provided by [OpenAI](https://allwebsd.com/chat)!
