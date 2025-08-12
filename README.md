@@ -16,7 +16,7 @@ With 16+ years in front-end engineering and digital strategy, I help companies �
 <cite>[Read More](https://marklreyes.com/testimonials/)</cite>
 
 ## Publications 📰
-A selection of Mark’s work that has reached global audiences across various platforms.
+A selection of my work that has reached global audiences across various platforms.
 * **[JavaScript Weekly - Issue 517](https://javascriptweekly.com/issues/517):** Reading John Resig’s ‘Pro JavaScript Techniques’ 14 Years Later
 * **[JavaScript Weekly - Issue 488](https://javascriptweekly.com/issues/488):** The Tale of Upgrading a Legacy Angular App
 * **[Today with Hoda and Jenna](https://www.marklreyes.com/blog/sleepscore-animated-aura/):** Download these apps to help with your resolutions
@@ -59,7 +59,7 @@ Archived projects with strong foundations—candidates for future updates or mod
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Advocacy 📣
-Mission-driven initiatives Mark supports beyond traditional work hours, focused on community, accessibility, and education.
+Mission-driven initiatives I supports beyond traditional work hours, focused on community, accessibility, and education.
 
 #### [AllWebSD Podcast](https://allwebsd.com/) - *Web Developer storytelling and community building out of America's Finest City.*
 
