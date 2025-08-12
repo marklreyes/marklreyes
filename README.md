@@ -59,7 +59,7 @@ Archived projects with strong foundations—candidates for future updates or mod
 * **[Puff Finder](https://github.com/marklreyes/puff-provisions-puff-finder):** Written in Vue 2, a listing app for querying seed companies, strains, brands, products, batches, retailers and studies. 
 
 ## Advocacy 📣
-Mission-driven initiatives I supports beyond traditional work hours, focused on community, accessibility, and education.
+Mission-driven initiatives I support beyond traditional work hours, focused on community, accessibility, and education.
 
 #### [AllWebSD Podcast](https://allwebsd.com/) - *Web Developer storytelling and community building out of America's Finest City.*
 
