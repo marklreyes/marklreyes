@@ -1,9 +1,9 @@
 👋, I'm [Mark](https://marklreyes.com) and welcome to my GitHub profile!
 
 ## About 👨🏾‍💻
-**Mark is a Front-End Engineer, Podcast Producer, and Advocate crafting dynamic web experiences and scalable UI systems.**
+**I’m a Digital Technologist blending code, storytelling, and culture — building digital experiences that are performant, accessible, and human-centered.**
 
-He started in web marketing, but his passion for design systems, JavaScript frameworks, and tech storytelling grew into a career spanning development, digital strategy, and audio production. Today, he helps companies—from Fortune 500s to startups—deliver performant, accessible digital products that align with real goals.
+With 16+ years in front-end engineering and digital strategy, I help companies — from Fortune 500 brands to high-growth startups — deliver products that align with real-world goals. My work spans modern stacks like React, Angular, and Astro, design systems, web performance, and developer education.
 
 ## Testimonials 🎖️
 > "He was the quintessential team player, who believes strongly in empowering people to be able to understand how to make web changes for themselves, for the sake of teaching everyone how to use the tools in front of them..."
