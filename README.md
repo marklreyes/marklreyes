@@ -35,7 +35,7 @@ A curated highlight of standout projects—each representing a distinct creative
 * **[Mighty Morphin Data Structures](https://github.com/marklreyes/mighty-morphin-data-structures):** AllWebSD.com Season 6 demos on data structures with a mighty morphin twist.
 * **[The Friendship Algorithm](https://github.com/marklreyes/The-Friendship-Algorithm):** A quick take on Sheldon Cooper formulating his workflow to making new friends.
 
-## Side Quests (Web, Mobile, AI) 💻📱🤖
+## Side Quests (Web, Mobile, AI, DevOps) 💻📱🤖🛠️
 A collection of experimental projects and prototypes—brief detours through new ideas, technologies, and creative curiosities. Think of them as digital warp pipes: unexpected, temporary, and purely exploratory.
 * **[Docker](https://github.com/marklreyes/docker-my-project):** Delving into the capabilities of Docker to develop, ship, and run applications that work on every machine. 
 * **[Plantly](https://github.com/marklreyes/plantly):** Shipping production-ready iOS and Android apps with React Native and Expo.
