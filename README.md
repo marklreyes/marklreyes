@@ -66,7 +66,7 @@ Mission-driven initiatives I support beyond traditional work hours, focused on c
 - [KiloByte Contributor](https://sdfutures.org/support-sdff) to local 501c3 nonprofit, San Diego Futures Foundation.
 - Built with [React Router Template](https://github.com/netlify/react-router-template), React 19 and Tailwind 4 with chatbot services provided by [OpenAI](https://allwebsd.com/chat)!
 
-#### [Puff Provisions Podcast](https://puffprovisions.com/) - *CA PROP 64 Advocacy through...Your FAVORITE Canna Comedy Show!*
+#### [Puff Provisions Podcast](https://puffprovisions.com/) - *California Proposition 64 Advocacy Project*
 
 - ⭐️⭐️⭐️⭐️⭐️ rated show on Spotify and Apple Podcasts. 
 - Developed with [Astro](https://astro.build/) and packed with interactive features using React including a Procurement App for cultivators planning a grow site from 0 to 1, US legalization map, strain explorer and more! 
